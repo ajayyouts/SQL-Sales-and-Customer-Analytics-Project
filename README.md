@@ -1,4 +1,4 @@
-* Customer Analytics SQL Project
+# Customer Analytics SQL Project
 
 * Overview
 
