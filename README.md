@@ -35,6 +35,7 @@ The goal was to analyze a simulated transactional database for a fictional bike 
 - Year-over-Year Performance Analysis
   ![Performance Analysis](https://raw.githubusercontent.com/ajayyouts/SQL-Sales-and-Customer-Analytics-Project/main/docs/performance_analysis.JPG)
 - Part-to-Whole Contribution
+  
   ![Part-to-Whole Analysis](https://raw.githubusercontent.com/ajayyouts/SQL-Sales-and-Customer-Analytics-Project/main/docs/part-to-whole_analysis.JPG)
   
 ## Tools & Techniques
