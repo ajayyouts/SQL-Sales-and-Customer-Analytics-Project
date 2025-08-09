@@ -2,7 +2,7 @@
 
 **Business Impact:** This project analyzes over 5 years of sales data to identify high-value customer segments, regional performance trends, and profit-driving products. Insights from this analysis can guide targeted marketing, optimize inventory allocation, and improve overall sales strategy.
 
-**Tools & Skills:** SQL (PostgreSQL), CTEs, Window Functions, Aggregate Functions, Data Cleaning.
+**Tools & Skills:** SQL (PostgreSQL), CTEs, Window Functions, Aggregate Functions, Data Cleaning
 
 ## Objectives
 
