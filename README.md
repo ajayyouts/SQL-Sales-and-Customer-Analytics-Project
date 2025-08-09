@@ -4,6 +4,10 @@
 
 **Tools & Skills:** SQL (PostgreSQL), CTEs, Window Functions, Aggregate Functions, Data Cleaning
 
+## Project Overview
+
+This project demonstrates my ability to conduct comprehensive business data analysis using SQL. The goal was to analyze a simulated transactional database for a fictional bike shop, generating insights about customer behavior, sales performance, and product category trends. 
+
 ## Objectives
 
 - Explore database schema and relationships
