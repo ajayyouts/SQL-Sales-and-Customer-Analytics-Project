@@ -26,6 +26,13 @@ The goal was to analyze a simulated transactional database for a fictional bike 
 - Ensured correct data types for dates, currency, and categorical fields
 - Used CTEs and window functions for advanced calculations
 
+## Sample Outputs
+
+- Customer Report: Segmentation & Value Metrics
+- Cumulative Sales & Moving Average Price
+- Year-over-Year Performance Analysis
+- Part-to-Whole Contribution
+
 ## Tools & Techniques
 
 - Microsoft SQL Server / SSMS  
