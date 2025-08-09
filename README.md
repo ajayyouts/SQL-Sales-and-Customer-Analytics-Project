@@ -31,6 +31,7 @@ The goal was to analyze a simulated transactional database for a fictional bike 
 - Customer Report: Segmentation & Value Metrics
   ![Customer Report](https://raw.githubusercontent.com/ajayyouts/SQL-Sales-and-Customer-Analytics-Project/main/docs/customer_report.JPG)
 - Cumulative Sales & Moving Average Price
+  ![Cumulative Analysis](https://raw.githubusercontent.com/ajayyouts/SQL-Sales-and-Customer-Analytics-Project/main/docs/cumulative_analysis.JPG)
 - Year-over-Year Performance Analysis
 - Part-to-Whole Contribution
 
