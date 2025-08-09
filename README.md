@@ -1,7 +1,8 @@
 # Customer Analytics SQL Project
 
-This project demonstrates my ability to conduct comprehensive business data analysis using SQL.
-The goal was to analyze a simulated transactional database for a fictional bike shop, generating insights about customer behavior, sales performance, and product category trends. 
+**Business Impact:** This project analyzes over 5 years of sales data to identify high-value customer segments, regional performance trends, and profit-driving products. Insights from this analysis can guide targeted marketing, optimize inventory allocation, and improve overall sales strategy.
+
+**Tools & Skills:** SQL (PostgreSQL), CTEs, Window Functions, Aggregate Functions, Data Cleaning.
 
 ## Objectives
 
@@ -37,11 +38,6 @@ The goal was to analyze a simulated transactional database for a fictional bike 
 - Part-to-Whole Contribution
   
   ![Part-to-Whole Analysis](https://raw.githubusercontent.com/ajayyouts/SQL-Sales-and-Customer-Analytics-Project/main/docs/part-to-whole_analysis.JPG)
-  
-## Tools & Techniques
-
-- Microsoft SQL Server / SSMS  
-- SQL techniques: Joins, GROUP BY, Window Functions (LAG, ROW_NUMBER), Common Table Expressions (CTEs), Aggregations, CASE statements
 
 ## Why It Matters
 
